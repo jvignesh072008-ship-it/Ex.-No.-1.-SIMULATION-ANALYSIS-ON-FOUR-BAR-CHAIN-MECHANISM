@@ -53,9 +53,8 @@
 
 
 ## Output:
-<img width="1146" height="792" alt="Screenshot 2026-03-11 113549" src="https://github.com/user-attachments/assets/8fb61622-48c3-4004-919c-fa5ecd91eb8c" />
-
-<img width="1149" height="789" alt="Screenshot 2026-03-11 113610" src="https://github.com/user-attachments/assets/240294b4-ea88-4e0f-b95d-b389475120dd" />
+<img width="1154" height="780" alt="Screenshot 2026-03-11 143106" src="https://github.com/user-attachments/assets/458de761-5d42-4fcb-8b03-fbf999b061e4" />
+<img width="1137" height="794" alt="Screenshot 2026-03-11 143118" src="https://github.com/user-attachments/assets/d91949e7-f525-4e6a-ba05-0500269fac5c" />
 
 ### Name: VIGNESH J
 ### Register Number: 212225230297 
